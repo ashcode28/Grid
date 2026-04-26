@@ -1,20 +1,20 @@
-#🎨Grid Pattern
+🎨Grid Pattern
 
-##📌Description
+📌Description
 Simple grid pattern using HTML & CSS Grid with colored boxes.
 
-## 🚀 Features
+🚀 Features
 * 6-column grid (`repeat(6, 70px)`)
 * Square boxes (70×70)
 * 3 colors: orange, peachpuff, brown
 * Repeating pattern
 
-## 🛠️ Tech
+🛠️ Tech
 HTML, CSS (Grid)
 
-## ▶️ Run
+▶️ Run
 Open the `.html` file in a browser.
 
-## 💡 Concepts
+💡 Concepts
 CSS Grid, layout, class styling
 
